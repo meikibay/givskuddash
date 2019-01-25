@@ -1,0 +1,18 @@
+﻿@inherits Umbraco.Web.Mvc.UmbracoTemplatePage<ContentModels.BlogPost>
+@using ContentModels = Umbraco.Web.PublishedContentModels;
+@{
+	Layout = null;
+}
+<!DOCTYPE html>
+<html>
+<head>
+    
+</head>
+@Umbraco.Field("title")
+
+@Umbraco.Field("article")
+
+@foreach(var post in ("blogPost")){
+
+<dt>@post</dt>
+}

@@ -728,6 +728,7 @@ Umbraco.Web.PropertyEditors.ParameterEditors.SingleMediaPickerParameterEditor, u
 Umbraco.Core.PropertyEditors.ParameterEditor, Umbraco.Core, Version=1.0.6949.28284, Culture=neutral, PublicKeyToken=null
 Umbraco.Core.PropertyEditors.PropertyEditor, Umbraco.Core, Version=1.0.6949.28284, Culture=neutral, PublicKeyToken=null
 
+<<<<<<< HEAD
 Umbraco.Web.Trees.TreeController
 Umbraco.Web.Trees.TreeAttribute
 Umbraco.Web.Trees.DictionaryTreeController, umbraco, Version=1.0.6949.28290, Culture=neutral, PublicKeyToken=null
@@ -788,6 +789,8 @@ umbraco.BusinessLogic.Actions.ContextMenuSeperator, cms, Version=1.0.6949.28289,
 umbraco.BusinessLogic.Actions.ActionUnPublish, cms, Version=1.0.6949.28289, Culture=neutral, PublicKeyToken=null
 umbraco.BusinessLogic.Actions.ActionRestore, cms, Version=1.0.6949.28289, Culture=neutral, PublicKeyToken=null
 
+=======
+>>>>>>> master
 Umbraco.Core.Persistence.Mappers.BaseMapper
 Umbraco.Core.Persistence.Mappers.MapperForAttribute
 Umbraco.Core.Persistence.Mappers.AccessMapper, Umbraco.Core, Version=1.0.6949.28284, Culture=neutral, PublicKeyToken=null
@@ -822,6 +825,7 @@ Umbraco.Core.Persistence.Mappers.ServerRegistrationMapper, Umbraco.Core, Version
 Umbraco.Core.Persistence.Mappers.UmbracoEntityMapper, Umbraco.Core, Version=1.0.6949.28284, Culture=neutral, PublicKeyToken=null
 Umbraco.Core.Persistence.Mappers.UserMapper, Umbraco.Core, Version=1.0.6949.28284, Culture=neutral, PublicKeyToken=null
 
+<<<<<<< HEAD
 umbraco.interfaces.ITree
 
 umbraco.loadPackager, umbraco, Version=1.0.6949.28290, Culture=neutral, PublicKeyToken=null
@@ -923,3 +927,5 @@ Umbraco.Web.HealthCheck.Checks.Security.ExcessiveHeadersCheck, umbraco, Version=
 Umbraco.Web.HealthCheck.Checks.Security.ClickJackingCheck, umbraco, Version=1.0.6949.28290, Culture=neutral, PublicKeyToken=null
 Umbraco.Web.HealthCheck.Checks.Security.HttpsCheck, umbraco, Version=1.0.6949.28290, Culture=neutral, PublicKeyToken=null
 
+=======
+>>>>>>> master

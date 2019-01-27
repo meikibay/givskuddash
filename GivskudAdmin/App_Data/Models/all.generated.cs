@@ -8,8 +8,13 @@ using  Umbraco.Web;
 using  Umbraco.ModelsBuilder;
 using  Umbraco.ModelsBuilder.Umbraco;
 [assembly: PureLiveAssembly]
+<<<<<<< HEAD
 [assembly:ModelsBuilderAssembly(PureLive = true, SourceHash = "7caf1e1be5a651f2")]
 [assembly:System.Reflection.AssemblyVersion("0.0.0.3")]
+=======
+[assembly:ModelsBuilderAssembly(PureLive = true, SourceHash = "8fc755fe6e68b41a")]
+[assembly:System.Reflection.AssemblyVersion("0.0.0.1")]
+>>>>>>> master
 
 
 // FILE: models.generated.cs
@@ -190,6 +195,7 @@ namespace Umbraco.Web.PublishedContentModels
 		}
 	}
 
+<<<<<<< HEAD
 	/// <summary>Youtube Page</summary>
 	[PublishedContentModel("youtubePage")]
 	public partial class YoutubePage : PublishedContentModel
@@ -225,6 +231,8 @@ namespace Umbraco.Web.PublishedContentModels
 		}
 	}
 
+=======
+>>>>>>> master
 	/// <summary>Folder</summary>
 	[PublishedContentModel("Folder")]
 	public partial class Folder : PublishedContentModel

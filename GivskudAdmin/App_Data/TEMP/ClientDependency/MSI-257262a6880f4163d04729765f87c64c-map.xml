@@ -44,6 +44,7 @@
       <file name="/umbraco/developer/RelationTypes/TreeMenu/ActionNewRelationType.js" />
     </files>
   </item>
+<<<<<<< HEAD
   <item key="L3VtYnJhY28vYXNzZXRzL2Nzcy91bWJyYWNvLmNzczs" file="D:\GivskudAdmin\GivskudAdmin\App_Data\TEMP\ClientDependency\1_2b9ba313aa43482fa0114f58d52d0480.cdC" compression="gzip" version="1">
     <files>
       <file name="/umbraco/assets/css/umbraco.css" />
@@ -119,4 +120,6 @@
       <file name="/umbraco/assets/css/umbraco.css" />
     </files>
   </item>
+=======
+>>>>>>> master
 </map>
